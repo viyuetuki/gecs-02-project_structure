@@ -73,6 +73,8 @@ Run the following command to generate a list of word counts:
 ```bash
 bash scripts/count_words.sh books/dracula.txt > counts/dracula.tsv
 ```
+>[!TIP]
+> You can use `.tsv` (Tab-Separated Values) file format when storing and handling tabular data. It’s a simple, plain-text file format, where information is organized in rows and columns, and tabs are used as separators. Compared to `.csv`, `.tsv` files avoid many issues related to commas appearing inside data values.
 
 Finally, you can plot the results using YouPlot:
 
