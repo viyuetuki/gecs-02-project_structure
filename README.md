@@ -5,6 +5,7 @@
 Project to visualize Zipf's Law using command line tools. We will use books from [Research Software Engineering with Pyhton](https://figshare.com/articles/dataset/Research_Software_Engineering_with_Python_Data_Files/13040516) to demonstrate the frequency of word usage in English literature.
 
 ## Project Structure
+
 > Briefly describe the structure of your project, including important directories and files.
 
 ```bash
