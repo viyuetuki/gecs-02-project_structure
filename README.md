@@ -88,6 +88,7 @@ Please make sure to update tests as appropriate.
 
 - [Research Software Engineering with Python Data Files](https://figshare.com/articles/dataset/Research_Software_Engineering_with_Python_Data_Files/13040516)
 - [YouPlot](https://github.com/red-data-tools/YouPlot)
+- [Markdown Notice Blocks](https://www.freecodecamp.org/news/how-to-create-notice-blocks-in-markdown/)
 
 ## Why README?
 
