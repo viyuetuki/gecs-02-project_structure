@@ -21,7 +21,7 @@ Project to visualize Zipf's Law using command line tools. We will use books from
 │   └── time_machine.txt
 ├── counts                          <-- Word count .tsv data
 ├── figures                         <-- Bar plots of word counts
-├── README.md
+├── README.md                       <-- README for the project
 └── scripts                         <-- Scripts directory
     ├── count_words.sh              <-- Counts occurences of word in a books
     ├── get_summary.sh              <-- Gets a book summary
