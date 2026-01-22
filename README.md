@@ -77,7 +77,7 @@ bash scripts/count_words.sh books/dracula.txt > counts/dracula.tsv
 Finally, you can plot the results using YouPlot:
 
 ```bash
-bash scripts/plot_counts.sh counts/dracula.tsv 2> plots/dracula.plot
+bash scripts/plot_counts.sh counts/dracula.tsv 2> figures/dracula.plot
 ```
 
 > [!NOTE]
@@ -86,7 +86,7 @@ bash scripts/plot_counts.sh counts/dracula.tsv 2> plots/dracula.plot
 To access the plots, open the file in directory as a text file or print it to the terminal:
 
 ```bash
-cat plots/dracula.plot
+cat figures/dracula.plot
 ```
 
 Now, you can try to do the same for other books in the `books/` directory! Later on we will see how to automate this process for all books.
